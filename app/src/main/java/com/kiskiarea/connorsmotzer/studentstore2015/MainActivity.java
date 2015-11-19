@@ -35,8 +35,7 @@ public class MainActivity extends AppCompatActivity
         //Can you see this comment
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
-        //How about this one?
-        //THen this one
+       //Hey can you see this one now 1:54
     }
 
     @Override
