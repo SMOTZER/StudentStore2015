@@ -33,6 +33,8 @@ public class MainActivity extends AppCompatActivity
         //Can you see this comment
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+        //How about this one?
+        //THen this one
     }
 
     @Override
